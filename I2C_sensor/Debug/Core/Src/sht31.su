@@ -1,0 +1,11 @@
+../Core/Src/sht31.c:18:6:startSingleShot	24	static
+../Core/Src/sht31.c:50:6:startPeriodicShot	24	static
+../Core/Src/sht31.c:123:6:statusRegister	16	static
+../Core/Src/sht31.c:128:6:clearStatusRegister	16	static
+../Core/Src/sht31.c:133:6:breakCommand	16	static
+../Core/Src/sht31.c:140:6:softReset	16	static
+../Core/Src/sht31.c:147:6:readSingleShot	16	static
+../Core/Src/sht31.c:152:6:readPeriodicShot	16	static
+../Core/Src/sht31.c:160:6:heaterEnable	24	static
+../Core/Src/sht31.c:167:6:heaterDisabled	24	static
+../Core/Src/sht31.c:174:6:calcuteTempAndHum	16	static
